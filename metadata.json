@@ -1,0 +1,6 @@
+{
+  "name": "8-Bit Platformer",
+  "description": "A retro 8-bit style platformer game with challenging levels, physics, enemies, and obstacles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
